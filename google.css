@@ -1,4 +1,49 @@
 body{
 
-  background:blue;
+  background:white;
+}
+
+.top-nav {
+  list-style: none;
+  font-family: "Arial";
+  padding: 0 9px;
+  float: left;
+  margin: 10px 15px 0 15px;
+  cursor:pointer;
+
+}
+
+.top-nav {
+  background-color: lightgrey;
+  height: 45px;
+  position: absolute;
+  top: 15px
+  width: 100%;
+}*/
+
+google-image {
+  padding-top: 112px;
+  height: 92px;
+  width: 272;
+  margin-top:  45px;
+  text-align: -webkit-center;
+
+
+  }
+
+.search-bar{
+    width:50%;
+    outline: none;
+    padding: 0 8px;
+    margin: 0;
+    position: absolute;
+    box-sizing: border-box;
+    left: 0;
+    background: transparent;
+    clear: both;
+  }
+
+.footer {
+clear:both;
+
 }
