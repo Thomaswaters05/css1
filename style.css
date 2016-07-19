@@ -1,0 +1,40 @@
+body {
+  background: gold;
+}
+
+.new-border {
+  border: 2px solid black;
+
+}
+
+/*.new-border2 {
+  border-width: 2px;
+  border-style: solid;
+  border-collapse: black;
+
+}*/
+
+.title {
+border-color:green;
+
+}
+
+.image {
+  border-color:blue;
+
+}
+
+.text1 {
+  border-color: red;
+
+}
+
+.text2 {
+  border-color: orange;
+
+}
+
+.footer {
+  border-color: grey;
+
+}
