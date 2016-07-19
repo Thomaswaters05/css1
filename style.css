@@ -1,5 +1,5 @@
 body {
-  background: gold;
+  background: lightblue;
 }
 
 .new-border {
@@ -38,3 +38,13 @@ border-color:green;
   border-color: grey;
 
 }
+
+.top-nav {
+  background-color: goldenrod;
+  height: 45px;
+  list-style: none;
+  font-family: "Arial";
+  padding: 0 9px;
+  float: left;
+  margin: 10px 15px 0 15px;
+  cursor:pointer;
